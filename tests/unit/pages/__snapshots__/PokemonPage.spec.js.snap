@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`PokemonPage pages should snapshot match after mount component 1`] = `
+<div class="container">
+  <h1>¿Quién es este Pokemon?</h1>
+  <div class="pokemon-container"><img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/1.svg" alt="pokemon" class="pokemon-hidden"></div>
+  <div class="options-container">
+    <ul>
+      <li>bulbasaur</li>
+      <li>ivysaur</li>
+      <li>venusaur</li>
+      <li>charmander</li>
+    </ul>
+  </div>
+  <!--v-if-->
+</div>
+`;
