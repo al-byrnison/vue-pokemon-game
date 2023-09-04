@@ -1,6 +1,10 @@
 # pokemon-game
 
-# Project Demo
+## Project Description
+Game created based on pokeapi.co and Vue 3, adding unit tests with jest.
+
+## Project Demo
+
 https://vue-choose-pokemon.netlify.app/
 
 ## Project setup
